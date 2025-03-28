@@ -1,0 +1,2682 @@
+{
+  "client_segments": [
+    {
+      "segment": "Other-Enterprise",
+      "industry": "Other",
+      "size": "Enterprise",
+      "client_count": 5,
+      "total_spend": 5538131.32,
+      "average_order_value": 1107626.264,
+      "average_conversion_rate": 90.0,
+      "top_products": [
+        {
+          "name": "iPad Mini 6 RGD INGStrike Apple iPad Mini 6 ING Case Rugged Tablet Case Box",
+          "count": 1
+        },
+        {
+          "name": "The Motorola Evolve LTE Handheld Car Cradle DIY",
+          "count": 1
+        },
+        {
+          "name": "Motorola Evolve LTE Handheld Car Cradle DIY",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_50",
+        "client_63",
+        "client_252"
+      ]
+    },
+    {
+      "segment": "IT & Technology-Enterprise",
+      "industry": "IT & Technology",
+      "size": "Enterprise",
+      "client_count": 3,
+      "total_spend": 762438.86,
+      "average_order_value": 51369.72555555555,
+      "average_conversion_rate": 77.77666666666666,
+      "top_products": [
+        {
+          "name": "AL-STK SAM TAB ACTIVE",
+          "count": 1
+        },
+        {
+          "name": "RAM-B-101U",
+          "count": 1
+        },
+        {
+          "name": "iPhone 14 Clear TPU Case",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_13",
+        "client_17",
+        "client_203"
+      ]
+    },
+    {
+      "segment": "Reseller/Distributor-Large",
+      "industry": "Reseller/Distributor",
+      "size": "Large",
+      "client_count": 3,
+      "total_spend": 575374.3,
+      "average_order_value": 11144.44198546648,
+      "average_conversion_rate": 51.99333333333334,
+      "top_products": [
+        {
+          "name": "CAS-STK SAM TAB A9PL RGD HSL",
+          "count": 3
+        },
+        {
+          "name": "Thiess",
+          "count": 2
+        },
+        {
+          "name": "Strike",
+          "count": 2
+        }
+      ],
+      "client_examples": [
+        "client_1",
+        "client_24",
+        "client_58"
+      ]
+    },
+    {
+      "segment": "Construction-Enterprise",
+      "industry": "Construction",
+      "size": "Enterprise",
+      "client_count": 3,
+      "total_spend": 376329.47000000003,
+      "average_order_value": 12716.760032036613,
+      "average_conversion_rate": 67.40333333333332,
+      "top_products": [
+        {
+          "name": "RAM Tele-Pole with 8&9 Poles, Single Swing Arm & Round Plate",
+          "count": 2
+        },
+        {
+          "name": "RAM 1\" Ball Mount w/ 2/2.5\" Round Base",
+          "count": 2
+        },
+        {
+          "name": "RAM\u00ae Double Ball Mount with 100x100mm VESA Plate",
+          "count": 2
+        }
+      ],
+      "client_examples": [
+        "client_6",
+        "client_22",
+        "client_84"
+      ]
+    },
+    {
+      "segment": "IT & Technology-Large",
+      "industry": "IT & Technology",
+      "size": "Large",
+      "client_count": 2,
+      "total_spend": 275827.86,
+      "average_order_value": 36394.215,
+      "average_conversion_rate": 19.09,
+      "top_products": [
+        {
+          "name": "SAMSUNG GALAXIE TAB S9 FE+",
+          "count": 1
+        },
+        {
+          "name": "Strike Alpha Cradle - Samsung Galaxy Tab Active 5 Power and Data",
+          "count": 1
+        },
+        {
+          "name": "RAM 1\" Ball Mount with 2/2.5\" Round Bases (RAM -B-101U)",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_31",
+        "client_100"
+      ]
+    },
+    {
+      "segment": "Other-Medium",
+      "industry": "Other",
+      "size": "Medium",
+      "client_count": 19,
+      "total_spend": 120595.39999999998,
+      "average_order_value": 2283.5813826232247,
+      "average_conversion_rate": 77.7757894736842,
+      "top_products": [
+        {
+          "name": "Strike Group Australia Pty Ltd",
+          "count": 2
+        },
+        {
+          "name": "Ram mount adaptor, type C",
+          "count": 1
+        },
+        {
+          "name": "RAM-101U-2461-CopyRAMVESAPlatewith1.5\u201cBallMount (RAM-101U-2461)",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_43",
+        "client_44",
+        "client_62"
+      ]
+    },
+    {
+      "segment": "Logistics-Large",
+      "industry": "Logistics",
+      "size": "Large",
+      "client_count": 2,
+      "total_spend": 37558.06,
+      "average_order_value": 6062.308333333333,
+      "average_conversion_rate": 33.635,
+      "top_products": [
+        {
+          "name": "Santos",
+          "count": 1
+        },
+        {
+          "name": "ACC-STK SP SAM",
+          "count": 1
+        },
+        {
+          "name": "CAS-STK SAM TAB ACTIVE 5 RGD HSL",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_260",
+        "client_308"
+      ]
+    },
+    {
+      "segment": "Telecommunications-Large",
+      "industry": "Telecommunications",
+      "size": "Large",
+      "client_count": 2,
+      "total_spend": 35408.59000000001,
+      "average_order_value": 2131.8477083333332,
+      "average_conversion_rate": 68.555,
+      "top_products": [
+        {
+          "name": "Strike Australia",
+          "count": 1
+        },
+        {
+          "name": "Motorola WAVE TLK 100",
+          "count": 1
+        },
+        {
+          "name": "MOTOROLA cradles",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_7",
+        "client_26"
+      ]
+    },
+    {
+      "segment": "IT & Technology-Medium",
+      "industry": "IT & Technology",
+      "size": "Medium",
+      "client_count": 7,
+      "total_spend": 29552.72,
+      "average_order_value": 2348.047976190476,
+      "average_conversion_rate": 70.71428571428571,
+      "top_products": [
+        {
+          "name": "RAM-103U",
+          "count": 1
+        },
+        {
+          "name": "RAM-202URAM",
+          "count": 1
+        },
+        {
+          "name": "Cradle Mounting (Socket)",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_23",
+        "client_57",
+        "client_89"
+      ]
+    },
+    {
+      "segment": "Other-Large",
+      "industry": "Other",
+      "size": "Large",
+      "client_count": 2,
+      "total_spend": 24140.25,
+      "average_order_value": 6035.0625,
+      "average_conversion_rate": 45.0,
+      "top_products": [
+        {
+          "name": "Strike Protector Case for Samsung Galaxy Tab A9+",
+          "count": 1
+        },
+        {
+          "name": "Galaxy Tab A9+5G casing",
+          "count": 1
+        },
+        {
+          "name": "Strike Rugged Case",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_229",
+        "client_272"
+      ]
+    },
+    {
+      "segment": "Other-Small",
+      "industry": "Other",
+      "size": "Small",
+      "client_count": 178,
+      "total_spend": 19486.460000000006,
+      "average_order_value": 79.13126872659176,
+      "average_conversion_rate": 34.66067415730337,
+      "top_products": [
+        {
+          "name": "RAM-201U",
+          "count": 4
+        },
+        {
+          "name": "Thiess",
+          "count": 4
+        },
+        {
+          "name": "Strike Group Australia",
+          "count": 4
+        }
+      ],
+      "client_examples": [
+        "client_3",
+        "client_18",
+        "client_21"
+      ]
+    },
+    {
+      "segment": "Construction-Medium",
+      "industry": "Construction",
+      "size": "Medium",
+      "client_count": 4,
+      "total_spend": 14109.01,
+      "average_order_value": 1289.1554166666667,
+      "average_conversion_rate": 59.0275,
+      "top_products": [
+        {
+          "name": "Strike Tempered Glass Screen Protector",
+          "count": 1
+        },
+        {
+          "name": "Strike Rugged Case with Hand strap and Lanyard",
+          "count": 1
+        },
+        {
+          "name": "Strike Samsung Galaxy Tab S9 Rugged Case with Hand Strap and Lanyard",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_102",
+        "client_133",
+        "client_255"
+      ]
+    },
+    {
+      "segment": "Telecommunications-Medium",
+      "industry": "Telecommunications",
+      "size": "Medium",
+      "client_count": 2,
+      "total_spend": 11148.83,
+      "average_order_value": 2558.0133333333333,
+      "average_conversion_rate": 100.0,
+      "top_products": [
+        {
+          "name": "AL-STK SAM XCOVER 7 RGD DSK6",
+          "count": 1
+        },
+        {
+          "name": "CAS-STK SAM XCOVER 7 RGD",
+          "count": 1
+        },
+        {
+          "name": "AL-STK SAM XCOVER 7 DSK6Strike Alpha Cradle - Samsung Galaxy XCover7 6-Bay Desktop Charger",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_81",
+        "client_103"
+      ]
+    },
+    {
+      "segment": "Manufacturing-Medium",
+      "industry": "Manufacturing",
+      "size": "Medium",
+      "client_count": 2,
+      "total_spend": 7294.4,
+      "average_order_value": 640.2465714285714,
+      "average_conversion_rate": 85.0,
+      "top_products": [
+        {
+          "name": "Apple iPhone Universal Car Cradle",
+          "count": 1
+        },
+        {
+          "name": "Heavy Duty Bullbar Mount Antenna - Full Black B3 7dBi",
+          "count": 1
+        },
+        {
+          "name": "Ball Mount",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_9",
+        "client_267"
+      ]
+    },
+    {
+      "segment": "Manufacturing-Small",
+      "industry": "Manufacturing",
+      "size": "Small",
+      "client_count": 3,
+      "total_spend": 6572.5,
+      "average_order_value": 1095.4166666666667,
+      "average_conversion_rate": 43.586666666666666,
+      "top_products": [
+        {
+          "name": "Strike Cradle Assembly",
+          "count": 1
+        },
+        {
+          "name": "RAM-202U-24",
+          "count": 1
+        },
+        {
+          "name": "Strike Group Australia Pty Ltd",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_10",
+        "client_25",
+        "client_235"
+      ]
+    },
+    {
+      "segment": "Telecommunications-Small",
+      "industry": "Telecommunications",
+      "size": "Small",
+      "client_count": 30,
+      "total_spend": 4965.94,
+      "average_order_value": 58.92823611111112,
+      "average_conversion_rate": 28.129333333333328,
+      "top_products": [
+        {
+          "name": "RAM-B-101U",
+          "count": 3
+        },
+        {
+          "name": "XCover7",
+          "count": 3
+        },
+        {
+          "name": "Strike Universal Alpha cradle with USB-C charging options DIY",
+          "count": 2
+        }
+      ],
+      "client_examples": [
+        "client_8",
+        "client_14",
+        "client_35"
+      ]
+    },
+    {
+      "segment": "IT & Technology-Small",
+      "industry": "IT & Technology",
+      "size": "Small",
+      "client_count": 26,
+      "total_spend": 3609.6500000000005,
+      "average_order_value": 58.99878205128205,
+      "average_conversion_rate": 31.59307692307692,
+      "top_products": [
+        {
+          "name": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+          "count": 3
+        },
+        {
+          "name": "Thiess",
+          "count": 2
+        },
+        {
+          "name": "Staines Memorial College",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_19",
+        "client_30",
+        "client_49"
+      ]
+    },
+    {
+      "segment": "Reseller/Distributor-Small",
+      "industry": "Reseller/Distributor",
+      "size": "Small",
+      "client_count": 3,
+      "total_spend": 3410.0,
+      "average_order_value": 1136.6666666666667,
+      "average_conversion_rate": 22.223333333333333,
+      "top_products": [
+        {
+          "name": "ArticleT7GZ00052591",
+          "count": 1
+        },
+        {
+          "name": "SKE-CAS-STK",
+          "count": 1
+        },
+        {
+          "name": "TA5HSL",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_140",
+        "client_168",
+        "client_244"
+      ]
+    },
+    {
+      "segment": "Logistics-Small",
+      "industry": "Logistics",
+      "size": "Small",
+      "client_count": 8,
+      "total_spend": 1733.54,
+      "average_order_value": 164.03375,
+      "average_conversion_rate": 11.25,
+      "top_products": [
+        {
+          "name": "AL-STK SAM TAB ACTIVE 4 PRO LCK ETHERNET",
+          "count": 1
+        },
+        {
+          "name": "RAM-B-202U",
+          "count": 1
+        },
+        {
+          "name": "Samsung Dock",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_32",
+        "client_111",
+        "client_139"
+      ]
+    },
+    {
+      "segment": "Construction-Small",
+      "industry": "Construction",
+      "size": "Small",
+      "client_count": 9,
+      "total_spend": 1177.1,
+      "average_order_value": 70.88981481481481,
+      "average_conversion_rate": 57.03666666666667,
+      "top_products": [
+        {
+          "name": "STRIKE GROUP AUSTRALIA PTY LTD",
+          "count": 3
+        },
+        {
+          "name": "Thiess Pty Ltd",
+          "count": 1
+        },
+        {
+          "name": "AL-STK SAM TAB ACTIVE 5 DATA DIY",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_2",
+        "client_16",
+        "client_42"
+      ]
+    },
+    {
+      "segment": "Retail-Small",
+      "industry": "Retail",
+      "size": "Small",
+      "client_count": 8,
+      "total_spend": 220.9,
+      "average_order_value": 13.80625,
+      "average_conversion_rate": 50.0,
+      "top_products": [
+        {
+          "name": "Strike Rugged Case with Hand Strap and Lanyard for Samsung Galaxy Tab A9+",
+          "count": 2
+        },
+        {
+          "name": "Universal Tablet Holder",
+          "count": 2
+        },
+        {
+          "name": "Samsung Galaxy Tab A9+ Rugged Case",
+          "count": 2
+        }
+      ],
+      "client_examples": [
+        "client_71",
+        "client_113",
+        "client_151"
+      ]
+    },
+    {
+      "segment": "Government-Small",
+      "industry": "Government",
+      "size": "Small",
+      "client_count": 5,
+      "total_spend": 133.28,
+      "average_order_value": 26.656,
+      "average_conversion_rate": 20.0,
+      "top_products": [
+        {
+          "name": "Apple iPad Air 11 2024 Rugged Case",
+          "count": 1
+        },
+        {
+          "name": "Strike protector Case for Samsung Tab Active 4 Pro",
+          "count": 1
+        },
+        {
+          "name": "RAM-166-TAB17U",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_4",
+        "client_11",
+        "client_29"
+      ]
+    },
+    {
+      "segment": "Healthcare-Small",
+      "industry": "Healthcare",
+      "size": "Small",
+      "client_count": 3,
+      "total_spend": 34.65,
+      "average_order_value": 11.549999999999999,
+      "average_conversion_rate": 33.333333333333336,
+      "top_products": [
+        {
+          "name": "RAM\u00ae Tough-Claw\u00ae with RAM\u00ae Flex-Rod\u2122 26\" Extension Arm for Wheelchairs",
+          "count": 1
+        },
+        {
+          "name": "RAM X-Grip\u00ae Large Phone/Phablet Cradle",
+          "count": 1
+        },
+        {
+          "name": "STRIKE RUGGED - IPHONE 12 / PRO BLK",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_72",
+        "client_153",
+        "client_228"
+      ]
+    },
+    {
+      "segment": "Mining-Small",
+      "industry": "Mining",
+      "size": "Small",
+      "client_count": 3,
+      "total_spend": 0,
+      "average_order_value": 0.0,
+      "average_conversion_rate": 0.0,
+      "top_products": [
+        {
+          "name": "Samsung SM-T630 / Galaxy Tab Active4 Pro",
+          "count": 1
+        },
+        {
+          "name": "Cradles",
+          "count": 1
+        },
+        {
+          "name": "Ball Mounts",
+          "count": 1
+        }
+      ],
+      "client_examples": [
+        "client_15",
+        "client_95",
+        "client_275"
+      ]
+    }
+  ],
+  "product_insights": [
+    {
+      "product_name": "Vehicle mounts for tablets",
+      "product_id": "product_541",
+      "category": "Vehicle Mount",
+      "total_revenue": 1658321.5,
+      "units_sold": 407,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate",
+        "High volume sales"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 4074.5,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Construction": 1
+      }
+    },
+    {
+      "product_name": "Samsung Galaxy Tab Active 3/5 Screen Protector Tempered Glass",
+      "product_id": "product_725",
+      "category": "Phone Case",
+      "total_revenue": 158006.25,
+      "units_sold": 39.75,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate",
+        "High volume sales"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 3975.0,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Construction": 1
+      }
+    },
+    {
+      "product_name": "Deposit",
+      "product_id": "product_172",
+      "category": "Other",
+      "total_revenue": 24892.34,
+      "units_sold": 1,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate"
+      ],
+      "channel_mix": "Primarily direct sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 0,
+        "reseller_avg_price": null,
+        "direct_avg_price": 24892.34
+      },
+      "industry_distribution": {
+        "Construction": 1
+      }
+    },
+    {
+      "product_name": "Strike Alpha Zebra TC56 Cradle Head - No Antenna",
+      "product_id": "product_938",
+      "category": "Vehicle Mount",
+      "total_revenue": 5290.0,
+      "units_sold": 40,
+      "customer_count": 3,
+      "conversion_rate": 50.0,
+      "success_factors": [
+        "High volume sales"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 132.25,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Construction": 1,
+        "Other": 2
+      }
+    },
+    {
+      "product_name": "7BANIMSTREETASPLE-COMPLEITIONOFDESIGN STRUCTURALENGINEERINGSERVICES",
+      "product_id": "product_490",
+      "category": "Other",
+      "total_revenue": 3300.0,
+      "units_sold": 1,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate"
+      ],
+      "channel_mix": "Primarily direct sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 0,
+        "reseller_avg_price": null,
+        "direct_avg_price": 3300.0
+      },
+      "industry_distribution": {
+        "Other": 1
+      }
+    },
+    {
+      "product_name": "CDM Communications",
+      "product_id": "product_979",
+      "category": "Phone Case",
+      "total_revenue": 2380.0,
+      "units_sold": 40,
+      "customer_count": 2,
+      "conversion_rate": 33.33,
+      "success_factors": [
+        "High volume sales"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 59.5,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Construction": 1,
+        "Other": 1
+      }
+    },
+    {
+      "product_name": "Apple iPad",
+      "product_id": "product_332",
+      "category": "Phone Case",
+      "total_revenue": 2040.0,
+      "units_sold": 40,
+      "customer_count": 2,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate",
+        "High volume sales"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 51.0,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Reseller/Distributor": 1
+      }
+    },
+    {
+      "product_name": "Samsung Galaxy Tab Active Pro",
+      "product_id": "product_842",
+      "category": "Phone Case",
+      "total_revenue": 1785.0,
+      "units_sold": 30,
+      "customer_count": 3,
+      "conversion_rate": 50.0,
+      "success_factors": [
+        "High volume sales",
+        "Flexible pricing strategy"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 99.75,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Construction": 1,
+        "Other": 1,
+        "Telecommunications": 1
+      }
+    },
+    {
+      "product_name": "7BANIMSTREETASPLEYS STRUCTURALENGINEERINGSERVICES",
+      "product_id": "product_496",
+      "category": "Other",
+      "total_revenue": 1650.0,
+      "units_sold": 1,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate"
+      ],
+      "channel_mix": "Primarily reseller sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 100.0,
+        "reseller_avg_price": 1650.0,
+        "direct_avg_price": null
+      },
+      "industry_distribution": {
+        "Other": 1
+      }
+    },
+    {
+      "product_name": "7BANIMSTREETASPLE",
+      "product_id": "product_542",
+      "category": "Other",
+      "total_revenue": 1650.0,
+      "units_sold": 1,
+      "customer_count": 1,
+      "conversion_rate": 100.0,
+      "success_factors": [
+        "High conversion rate"
+      ],
+      "channel_mix": "Primarily direct sales",
+      "reseller_vs_direct": {
+        "reseller_percentage": 0,
+        "reseller_avg_price": null,
+        "direct_avg_price": 1650.0
+      },
+      "industry_distribution": {
+        "Other": 1
+      }
+    }
+  ],
+  "cross_sell_opportunities": [
+    {
+      "product_combination": [
+        "RAM",
+        "201U",
+        "RAM",
+        "202U"
+      ],
+      "frequency": 6,
+      "product_ids": [
+        "product_887",
+        "product_887"
+      ],
+      "suggestion": "Customers who purchase RAM often also buy 201U"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB A9PL RGD HSL",
+        "Thiess"
+      ],
+      "frequency": 5,
+      "product_ids": [
+        "product_98"
+      ],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB A9PL RGD HSL"
+    },
+    {
+      "product_combination": [
+        "RAM",
+        "201U",
+        "RAM",
+        "230U"
+      ],
+      "frequency": 5,
+      "product_ids": [
+        "product_887",
+        "product_887"
+      ],
+      "suggestion": "Customers who purchase RAM often also buy 201U"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB ACTIVE 5 RGD HSL",
+        "CAS",
+        "STK TETHER COIL BLK"
+      ],
+      "frequency": 5,
+      "product_ids": [],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB ACTIVE 5 RGD HSL"
+    },
+    {
+      "product_combination": [
+        "Strike Rugged Case for iPad 9th Gen and iPad 10th Gen",
+        "Thiess"
+      ],
+      "frequency": 4,
+      "product_ids": [
+        "product_665",
+        "product_98"
+      ],
+      "suggestion": "Customers who purchase Strike Rugged Case for iPad 9th Gen and iPad 10th Gen often also buy Thiess"
+    },
+    {
+      "product_combination": [
+        "RAM",
+        "B",
+        "201U",
+        "Thiess"
+      ],
+      "frequency": 4,
+      "product_ids": [
+        "product_887",
+        "product_98"
+      ],
+      "suggestion": "Customers who purchase RAM often also buy B"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB A9PL RGD HSL",
+        "Strike Rugged Case for iPad 9th Gen and iPad 10th Gen"
+      ],
+      "frequency": 4,
+      "product_ids": [
+        "product_665"
+      ],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB A9PL RGD HSL"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB A9 RGD HSL",
+        "CAS",
+        "STK SAM TAB A9PL RGD HSL"
+      ],
+      "frequency": 4,
+      "product_ids": [],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB A9 RGD HSL"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB A9 RGD HSL",
+        "CAS",
+        "STK SAM TAB S9FE RGD"
+      ],
+      "frequency": 4,
+      "product_ids": [],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB A9 RGD HSL"
+    },
+    {
+      "product_combination": [
+        "CAS",
+        "STK SAM TAB A9PL RGD HSL",
+        "CAS",
+        "STK SAM TAB S9FE/S9/S8/S7 RGD HSL"
+      ],
+      "frequency": 4,
+      "product_ids": [],
+      "suggestion": "Customers who purchase CAS often also buy STK SAM TAB A9PL RGD HSL"
+    }
+  ],
+  "pricing_insights": [
+    {
+      "category": "Other",
+      "optimal_price_point": 8479.793333333333,
+      "reseller_optimal_price": null,
+      "direct_optimal_price": 8479.793333333333,
+      "high_converting_examples": [
+        "Afterpay",
+        "Customer",
+        "Deposit"
+      ],
+      "sample_conversion_rates": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "category": "Phone Case",
+      "optimal_price_point": 63.666666666666664,
+      "reseller_optimal_price": null,
+      "direct_optimal_price": 63.666666666666664,
+      "high_converting_examples": [
+        "CAS-STKRA16M",
+        "AL-STKH3A16Mi",
+        "ACCSTR-CAS-STK-IPAD-10.9-RGDHSL"
+      ],
+      "sample_conversion_rates": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "category": "Vehicle Mount",
+      "optimal_price_point": 125.94,
+      "reseller_optimal_price": null,
+      "direct_optimal_price": 125.94,
+      "high_converting_examples": [
+        "Apple iPhone Universal Car Cradle",
+        "Heavy Duty Bullbar Mount Antenna - Full Black B3 7dBi",
+        "RAM X-Grip with RAM Twist-Lock Suction Cup Mount for 9\"-10\" Tablets"
+      ],
+      "sample_conversion_rates": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "category": "Tablet Accessory",
+      "optimal_price_point": 62.169999999999995,
+      "reseller_optimal_price": 140.0,
+      "direct_optimal_price": 23.255000000000003,
+      "high_converting_examples": [
+        "Staines Memorial College",
+        "AM1810-HDMI",
+        "HWare -Other Strike Steel Bracket for Tablet Strike Alphas"
+      ],
+      "sample_conversion_rates": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "category": "Charging Solution",
+      "optimal_price_point": 13.56,
+      "reseller_optimal_price": null,
+      "direct_optimal_price": 13.56,
+      "high_converting_examples": [
+        "RAM-HOL-GA22U",
+        "GDS Cable Clamp",
+        "RAM B 1\" Double Ball Adapter"
+      ],
+      "sample_conversion_rates": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "category": "Signal Booster",
+      "optimal_price_point": 1532.3966666666668,
+      "reseller_optimal_price": 1436.96,
+      "direct_optimal_price": 1723.27,
+      "high_converting_examples": [
+        "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+        "bundle",
+        "Cel-Fi GO G41 Smart Signal Booster & B3-B Antenna Bundle"
+      ],
+      "sample_conversion_rates": [
+        54.55,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "industry_product_matrix": {
+    "Reseller/Distributor": [
+      {
+        "product": "Thiess",
+        "frequency": 4
+      },
+      {
+        "product": "CAS-STK SAM TAB A9PL RGD HSL",
+        "frequency": 4
+      },
+      {
+        "product": "RAM-B-201U",
+        "frequency": 3
+      }
+    ],
+    "Construction": [
+      {
+        "product": "Thiess",
+        "frequency": 4
+      },
+      {
+        "product": "STRIKE GROUP AUSTRALIA PTY LTD",
+        "frequency": 3
+      },
+      {
+        "product": "AL-STK UNI TAB",
+        "frequency": 3
+      }
+    ],
+    "Other": [
+      {
+        "product": "RAM-201U",
+        "frequency": 4
+      },
+      {
+        "product": "Thiess",
+        "frequency": 4
+      },
+      {
+        "product": "Strike Group Australia",
+        "frequency": 4
+      }
+    ],
+    "Government": [
+      {
+        "product": "Apple iPad Air 11 2024 Rugged Case",
+        "frequency": 1
+      },
+      {
+        "product": "Strike protector Case for Samsung Tab Active 4 Pro",
+        "frequency": 1
+      },
+      {
+        "product": "RAM-166-TAB17U",
+        "frequency": 1
+      }
+    ],
+    "Retail": [
+      {
+        "product": "Strike Rugged Case with Hand Strap and Lanyard for Samsung Galaxy Tab A9+",
+        "frequency": 2
+      },
+      {
+        "product": "Universal Tablet Holder",
+        "frequency": 2
+      },
+      {
+        "product": "Samsung Galaxy Tab A9+ Rugged Case",
+        "frequency": 2
+      }
+    ],
+    "Telecommunications": [
+      {
+        "product": "RAM-B-101U",
+        "frequency": 3
+      },
+      {
+        "product": "XCover7",
+        "frequency": 3
+      },
+      {
+        "product": "Strike Universal Alpha cradle with USB-C charging options DIY",
+        "frequency": 2
+      }
+    ],
+    "Manufacturing": [
+      {
+        "product": "RAM-B-238U",
+        "frequency": 2
+      },
+      {
+        "product": "RAM-B-201U",
+        "frequency": 2
+      },
+      {
+        "product": "Strike Group Australia Pty Ltd",
+        "frequency": 2
+      }
+    ],
+    "IT & Technology": [
+      {
+        "product": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+        "frequency": 4
+      },
+      {
+        "product": "Strike Alpha Cradle - Samsung Galaxy Tab Active 5 Power and Data",
+        "frequency": 2
+      },
+      {
+        "product": "RAM 1\" Ball Mount with 2/2.5\" Round Bases (RAM -B-101U)",
+        "frequency": 2
+      }
+    ],
+    "Mining": [
+      {
+        "product": "Samsung SM-T630 / Galaxy Tab Active4 Pro",
+        "frequency": 1
+      },
+      {
+        "product": "Cradles",
+        "frequency": 1
+      },
+      {
+        "product": "Ball Mounts",
+        "frequency": 1
+      }
+    ],
+    "Education": [
+      {
+        "product": "Staines Memorial College",
+        "frequency": 1
+      },
+      {
+        "product": "Strike Rugged Case For Apple iPad 10.9\" (10th Gen) (Black)",
+        "frequency": 1
+      },
+      {
+        "product": "Strike Tempered Glass Screen Protector for Apple iPad 10.9\" (10th Gen)",
+        "frequency": 1
+      }
+    ],
+    "Logistics": [
+      {
+        "product": "Freight",
+        "frequency": 2
+      },
+      {
+        "product": "AL-STK SAM TAB ACTIVE 4 PRO LCK ETHERNET",
+        "frequency": 1
+      },
+      {
+        "product": "RAM-B-202U",
+        "frequency": 1
+      }
+    ],
+    "Healthcare": [
+      {
+        "product": "RAM\u00ae Tough-Claw\u00ae with RAM\u00ae Flex-Rod\u2122 26\" Extension Arm for Wheelchairs",
+        "frequency": 1
+      },
+      {
+        "product": "RAM X-Grip\u00ae Large Phone/Phablet Cradle",
+        "frequency": 1
+      },
+      {
+        "product": "STRIKE RUGGED - IPHONE 12 / PRO BLK",
+        "frequency": 1
+      }
+    ]
+  },
+  "reseller_insights": [
+    {
+      "reseller_id": "client_12",
+      "reseller_name": "Strike Group Australia Pty Ltd",
+      "total_revenue": 677861.2199999999,
+      "end_customer_count": 108,
+      "top_products": [
+        {
+          "name": "TAB Active cradles",
+          "quantity": 53000
+        },
+        {
+          "name": "RAM-B-101U",
+          "quantity": 1592
+        },
+        {
+          "name": "Cel-Fi Roam R41",
+          "quantity": 1590
+        },
+        {
+          "name": "AL-STK SAM TAB ACTIVE",
+          "quantity": 1500
+        },
+        {
+          "name": "RIO",
+          "quantity": 1000
+        }
+      ],
+      "end_customer_industries": {
+        "IT & Technology": 15,
+        "Other": 60,
+        "Telecommunications": 12,
+        "Construction": 5,
+        "Mining": 3,
+        "Manufacturing": 4,
+        "Retail": 3,
+        "Logistics": 6
+      }
+    },
+    {
+      "reseller_id": "client_31",
+      "reseller_name": "Compnow",
+      "total_revenue": 260502.0,
+      "end_customer_count": 5,
+      "top_products": [
+        {
+          "name": "Strike Alpha Cradle - Samsung Galaxy Tab Active 5 Power and Data",
+          "quantity": 1500
+        },
+        {
+          "name": "RAM 1\" Ball Mount with 2/2.5\" Round Bases (RAM -B-101U)",
+          "quantity": 1500
+        },
+        {
+          "name": "HSL Rugged cases for Tab Active4 Pro",
+          "quantity": 2
+        },
+        {
+          "name": "TG screen protectors",
+          "quantity": 2
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2,
+        "IT & Technology": 1,
+        "Healthcare": 1,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_24",
+      "reseller_name": "Ingram Micro New Zealand",
+      "total_revenue": 218809.78,
+      "end_customer_count": 11,
+      "top_products": [
+        {
+          "name": "Samsung XCover 7 Cradle DIY",
+          "quantity": 3200
+        },
+        {
+          "name": "Strike Protector Case for Samsung Galaxy Tab A9+",
+          "quantity": 260
+        },
+        {
+          "name": "AL-STK UNI TAB",
+          "quantity": 55
+        },
+        {
+          "name": "RAM-B-101U-C",
+          "quantity": 55
+        },
+        {
+          "name": "STRIKE cradles",
+          "quantity": 55
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 4,
+        "Other": 3,
+        "IT & Technology": 2,
+        "Reseller/Distributor": 1,
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_58",
+      "reseller_name": "JB HI-FI Solutions VIC",
+      "total_revenue": 54800.25,
+      "end_customer_count": 3,
+      "top_products": [
+        {
+          "name": "Strike Rugged Case for iPad 9th Gen and iPad 10th Gen",
+          "quantity": 200
+        },
+        {
+          "name": "CAS-STK SAM TAB S9FE/S9/S8/S7 RGD HSL",
+          "quantity": 180
+        },
+        {
+          "name": "ACC-STK SP SAM TAB S9FE/S9/S8 TG",
+          "quantity": 180
+        },
+        {
+          "name": "Samsung Galaxy A55 Rugged Case",
+          "quantity": 140
+        },
+        {
+          "name": "Tempered Glass Screen Protector for Samsung Galaxy A55",
+          "quantity": 140
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2,
+        "Reseller/Distributor": 1
+      }
+    },
+    {
+      "reseller_id": "client_1",
+      "reseller_name": "JB Hi-Fi Group Pty Ltd",
+      "total_revenue": 18124.940000000006,
+      "end_customer_count": 18,
+      "top_products": [
+        {
+          "name": "CAS-STK APP IPAD 10.2 RGD HSL",
+          "quantity": 88
+        },
+        {
+          "name": "CAS-STK SAM TAB S9FE/S9/S8/S7 RGD HSL",
+          "quantity": 83
+        },
+        {
+          "name": "Apple iPad",
+          "quantity": 80
+        },
+        {
+          "name": "CAS-STK SAM TAB S9 RGD",
+          "quantity": 77
+        },
+        {
+          "name": "CAS-STK SAM TAB A9PL RGD",
+          "quantity": 48
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 6,
+        "Other": 8,
+        "Reseller/Distributor": 1,
+        "Government": 2,
+        "Healthcare": 1
+      }
+    },
+    {
+      "reseller_id": "client_94",
+      "reseller_name": "Instavox",
+      "total_revenue": 13908.0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "RG725 DIYStrike Alpha Ruggear Cradle",
+          "quantity": 80
+        },
+        {
+          "name": "Strike Alpha Ruggear RG725 Cradle",
+          "quantity": 80
+        },
+        {
+          "name": "AL-STK RUGGEAR RG725Strike Alpha Ruggear RG725 Cradle",
+          "quantity": 80
+        },
+        {
+          "name": "RG725 Cradle DIY",
+          "quantity": 80
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_166",
+      "reseller_name": "SATATO Australia Pty Ltd",
+      "total_revenue": 5088.5,
+      "end_customer_count": 3,
+      "top_products": [
+        {
+          "name": "Vehicle mounts for tablets",
+          "quantity": 407
+        },
+        {
+          "name": "Samsung Galaxy Tab Active 3/5 Screen Protector Tempered Glass",
+          "quantity": 39.75
+        },
+        {
+          "name": "Strike Group Australia Pty Ltd",
+          "quantity": 11
+        },
+        {
+          "name": "iPad Mini 6 RGD INGStrike Apple iPad Mini 6 ING Case Rugged Tablet Case",
+          "quantity": 10
+        },
+        {
+          "name": "CAB USBC",
+          "quantity": 3
+        }
+      ],
+      "end_customer_industries": {
+        "Logistics": 2,
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_188",
+      "reseller_name": "Slate PC Pty Ltd",
+      "total_revenue": 3773.66,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "CAS-STK APP I PAD 10.9 RGD HSL",
+          "quantity": 20
+        },
+        {
+          "name": "CAS-STK APP IPAD 10.9 RGD HSL",
+          "quantity": 5
+        },
+        {
+          "name": "ACC-STK SP IPAD PRO 13 2024-TG",
+          "quantity": 4
+        },
+        {
+          "name": "CAS-STK APP IPAD PRO 13 2024 RGD",
+          "quantity": 2
+        },
+        {
+          "name": "CAS-STK APP IPAD PRO 11 2024 RGDStrike Protector Case for Apple iPad Pro 11 (2024)",
+          "quantity": 2
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_245",
+      "reseller_name": "Buswise Pty Ltd",
+      "total_revenue": 3410.0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "BW-STK-TAB A3-NFCJ-LCK Strike cradle with a dedicated NFC extender including external GPS and USB A INPUT",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Reseller/Distributor": 1,
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_125",
+      "reseller_name": "Bathroom Sales Direct Pty Ltd",
+      "total_revenue": 3026.6,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_54",
+      "reseller_name": "Dicker Data Ltd",
+      "total_revenue": 1216.32,
+      "end_customer_count": 6,
+      "top_products": [
+        {
+          "name": "RIO",
+          "quantity": 1000
+        },
+        {
+          "name": "CAS-STKSAMTABA8RGDHSL",
+          "quantity": 500
+        },
+        {
+          "name": "SKUs",
+          "quantity": 100
+        },
+        {
+          "name": "Strike Group Australia",
+          "quantity": 40
+        },
+        {
+          "name": "Tab Active 5 Case and Screen Protector",
+          "quantity": 30
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2,
+        "IT & Technology": 1,
+        "Other": 2,
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_97",
+      "reseller_name": "Exceed ICT",
+      "total_revenue": 1181.3,
+      "end_customer_count": 3,
+      "top_products": [
+        {
+          "name": "ACC-STK SP IPAD 10.9 -TG",
+          "quantity": 15
+        },
+        {
+          "name": "CAS-STK APP IPAD 10.9 RGD HSL",
+          "quantity": 13
+        },
+        {
+          "name": "Strike Apple iPad Air 13 2024 Rugged Case with Hand Strap & Lanyard Shoulder Strap",
+          "quantity": 4
+        },
+        {
+          "name": "Incorrect Cases",
+          "quantity": 4
+        },
+        {
+          "name": "CAS-STK SAM A35 RGD",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 3
+      }
+    },
+    {
+      "reseller_id": "client_160",
+      "reseller_name": "Qube Logistics",
+      "total_revenue": 891.0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "RAM Tab-Tite Suction Cup Mount for 9\"-10.5\" Tablets with Case (RAM-B-166-TAB20U)",
+          "quantity": 5
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_311",
+      "reseller_name": "amit.com.au",
+      "total_revenue": 875,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Samsung Xcover 7",
+          "quantity": 7
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_240",
+      "reseller_name": "Inkline IT",
+      "total_revenue": 611.29,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "Active Tab",
+          "quantity": 3
+        },
+        {
+          "name": "Cradle",
+          "quantity": 3
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_266",
+      "reseller_name": "DCI SCANNING (PTY)",
+      "total_revenue": 155.0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "DT50 Car Cradle with DC Power",
+          "quantity": 2
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_330",
+      "reseller_name": "SYNDES Technologies Sdn. Bhd.",
+      "total_revenue": 152.0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Samsung Galaxy Tab A9+ Lockable Car Cradle (Landscape)",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_161",
+      "reseller_name": "Fyfe",
+      "total_revenue": 120.77,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "RAM B Size 1\" Diameter Track Ball\u2122 w/ T-Bolt Attachment (RAP-B-354U-TRA1)",
+          "quantity": 1
+        },
+        {
+          "name": "RAM Short Socket Arm for B Size (RAM-B-201U-A)",
+          "quantity": 1
+        },
+        {
+          "name": "RAM Long Socket Arm for B Size 1\" Ball (RAM-B-201U-C)",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_46",
+      "reseller_name": "Mack Tow Pty Ltd",
+      "total_revenue": 114.61,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "RAM Tab-Tite\u2122 9.7\" Tablets & Samsung Tab A 9.7 Cradle (RAM-HOL-TAB28U)",
+          "quantity": 2
+        },
+        {
+          "name": "RAM-B-189BU",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_313",
+      "reseller_name": "Creek to Coast Plumbing",
+      "total_revenue": 101.95,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Ram X-Grip large phone mount with twist lock suction",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_14",
+      "reseller_name": "Outreach Centre",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "Delux Protection",
+          "quantity": 1
+        },
+        {
+          "name": "RAM Universal X-Grip\u00ae iPhone Cradle",
+          "quantity": 1
+        },
+        {
+          "name": "SO7194RMAU",
+          "quantity": 1
+        },
+        {
+          "name": "Strike Universal Alpha cradle with Qi wireless charging options",
+          "quantity": 1
+        },
+        {
+          "name": "Garmin Overlander mount",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1,
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_19",
+      "reseller_name": "Computer Alliance",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "Strike Protector Case for Samsung Galaxy Tab A9+ 5",
+          "quantity": 5
+        },
+        {
+          "name": "ACCSTR-CAS-STK-IPAD-10.9-RGDHSL",
+          "quantity": 3
+        }
+      ],
+      "end_customer_industries": {
+        "Education": 1,
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_25",
+      "reseller_name": "Sato Global",
+      "total_revenue": 0,
+      "end_customer_count": 4,
+      "top_products": [
+        {
+          "name": "AL-STK SAM TAB ACTIVE 3 LCK ETHERNETStrike Alpha Samsung Galaxy Tab Active 3 Lockable Cradle With Ethernet Port",
+          "quantity": 25
+        },
+        {
+          "name": "Cleanaway",
+          "quantity": 1
+        },
+        {
+          "name": "Lock Barrel",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Telecommunications": 1,
+        "Construction": 2,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_30",
+      "reseller_name": "PB Tech",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_34",
+      "reseller_name": "Datanet",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Zebra TC73 TC78 Holder",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_36",
+      "reseller_name": "One Solution",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_39",
+      "reseller_name": "Austro Adline Marking",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_41",
+      "reseller_name": "VoicePlus Data Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Samsung Galaxy Tab Active 5",
+          "quantity": 5
+        },
+        {
+          "name": "Samsung Galaxy Tab Active Pro",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_48",
+      "reseller_name": "Bluescope Steel",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_59",
+      "reseller_name": "Progility",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_70",
+      "reseller_name": "Leveltec Engineering Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_75",
+      "reseller_name": "MPAC",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_76",
+      "reseller_name": "Flow Telecommunications",
+      "total_revenue": 0,
+      "end_customer_count": 4,
+      "top_products": [
+        {
+          "name": "2 items",
+          "quantity": 36
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 3,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_89",
+      "reseller_name": "BHP",
+      "total_revenue": 0,
+      "end_customer_count": 3,
+      "top_products": [
+        {
+          "name": "RAM \u2013 201u",
+          "quantity": 320
+        },
+        {
+          "name": "RAM-230U",
+          "quantity": 2
+        },
+        {
+          "name": "1m USB 2.0 male to Type-C male cable - Black",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 3
+      }
+    },
+    {
+      "reseller_id": "client_90",
+      "reseller_name": "Metalform",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_92",
+      "reseller_name": "RollCall Safety Solutions Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_95",
+      "reseller_name": "Russell Mineral Equipment",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_96",
+      "reseller_name": "Fire and Rescue NSW",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_98",
+      "reseller_name": "Imperial Kitchens",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_106",
+      "reseller_name": "Vocus",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1,
+        "Logistics": 1
+      }
+    },
+    {
+      "reseller_id": "client_111",
+      "reseller_name": "Maritime Transport",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_120",
+      "reseller_name": "Corio WM",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_129",
+      "reseller_name": "SITEC",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_139",
+      "reseller_name": "StarTrack Delivery",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Reseller/Distributor": 1
+      }
+    },
+    {
+      "reseller_id": "client_140",
+      "reseller_name": "COSTCO WHOLESALE AUSTRALIA PTY LTD",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_147",
+      "reseller_name": "Waipounamu Contracting Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_152",
+      "reseller_name": "Aniluin Distribution",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_155",
+      "reseller_name": "joshuamaguire.com",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Mounts",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_163",
+      "reseller_name": "Global Bus Ventures",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_168",
+      "reseller_name": "TD SYNNEX CANADA ULC",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_172",
+      "reseller_name": "MyDeal Marketplace",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Strike Rugged Case with Hand Strap and Lanyard for Samsung Galaxy Tab A9+",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Retail": 1
+      }
+    },
+    {
+      "reseller_id": "client_183",
+      "reseller_name": "Rosvall",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_193",
+      "reseller_name": "Trotters Coaches",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_196",
+      "reseller_name": "Rammount",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "ACC-CELFI GO ROAM R41 Cel-Fi Go ROAM R41 Mobile Kit Zone(s) / Bin(s) Warehouse, A02D0810",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_198",
+      "reseller_name": "IT Integrity",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_199",
+      "reseller_name": "Ball and Doggett",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_202",
+      "reseller_name": "FUJIFILM Business Innovation Australia Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_205",
+      "reseller_name": "globex.co.nz",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_207",
+      "reseller_name": "J. A. Russell Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_212",
+      "reseller_name": "ENTAG",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_214",
+      "reseller_name": "Solbox",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Cipher Lab R35 Mounts Kit",
+          "quantity": 7
+        },
+        {
+          "name": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_215",
+      "reseller_name": "Accurate Instruments (NZ) Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1,
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_217",
+      "reseller_name": "BVLT",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Part",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_219",
+      "reseller_name": "Getac",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Getac ZX80",
+          "quantity": 1
+        },
+        {
+          "name": "UX10 Getac cradle",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_222",
+      "reseller_name": "Whittlesea CC",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "cradle",
+          "quantity": 1
+        },
+        {
+          "name": "12 volt installer",
+          "quantity": 1
+        },
+        {
+          "name": "Samsung Galaxy Tab Active3 Holder",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1,
+        "Other": 1
+      }
+    },
+    {
+      "reseller_id": "client_225",
+      "reseller_name": "DMD Hydraulics/GPS Solutions Mky Admin",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "RAM-201U",
+          "quantity": 2
+        },
+        {
+          "name": "RAM-202U",
+          "quantity": 2
+        },
+        {
+          "name": "RAM-230U",
+          "quantity": 1
+        },
+        {
+          "name": "RAM-201U-B",
+          "quantity": 1
+        },
+        {
+          "name": "201MU-D",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_226",
+      "reseller_name": "UGL Pty Limited",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_232",
+      "reseller_name": "Next-Tel Communications Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "Next-Tel Communications Pty Ltd",
+          "quantity": 8
+        },
+        {
+          "name": "Apple iPad Air 11 2024 Rugged Case with Hand Strap & Lanyard Shoulder Strap",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_234",
+      "reseller_name": "Stevens Group",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_238",
+      "reseller_name": "RTV Group",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_242",
+      "reseller_name": "Harvey Norman Technology for Business",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_244",
+      "reseller_name": "StrikeGroupAustraliaPtyLtd",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [
+        {
+          "name": "BW-STK-TAB A3-NFCJ-LCK Strike cradle with a dedicated NFC extender including external GPS and USB A INPUT",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_250",
+      "reseller_name": "Winaust",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_253",
+      "reseller_name": "BCC Newcastle",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_262",
+      "reseller_name": "Wolf Business / Wolfstores",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_263",
+      "reseller_name": "Mandile",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Suction Cup, Double Socket Arm, Round Plate, Tab Lite Holder",
+          "quantity": 1
+        },
+        {
+          "name": "X-Grip Cradle",
+          "quantity": 1
+        },
+        {
+          "name": "Tough \u2013 Claw Clamp",
+          "quantity": 1
+        },
+        {
+          "name": "Tab-Lite Holder",
+          "quantity": 1
+        },
+        {
+          "name": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_268",
+      "reseller_name": "MIMICO",
+      "total_revenue": 0,
+      "end_customer_count": 0,
+      "top_products": [],
+      "end_customer_industries": {}
+    },
+    {
+      "reseller_id": "client_273",
+      "reseller_name": "Seetickets.ch",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Alpha Zebra TC56 Cradle Head fixes",
+          "quantity": 40
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_280",
+      "reseller_name": "tbtcperthnorth.com.au",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_283",
+      "reseller_name": "Hexicor",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [
+        {
+          "name": "Strike Group Australia",
+          "quantity": 4
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_284",
+      "reseller_name": "Harvey Norman Stores (NZ) Pty Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_289",
+      "reseller_name": "ASP",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_297",
+      "reseller_name": "Mandurah VMR",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Telecommunications": 1
+      }
+    },
+    {
+      "reseller_id": "client_302",
+      "reseller_name": "Jefferson Automotive Group",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_304",
+      "reseller_name": "Pacificomm Group Limited",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_307",
+      "reseller_name": "Freightways Information Service Ltd",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_310",
+      "reseller_name": "Intuit Technologies",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_331",
+      "reseller_name": "NED7576",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    },
+    {
+      "reseller_id": "client_337",
+      "reseller_name": "JW Computers",
+      "total_revenue": 0,
+      "end_customer_count": 2,
+      "top_products": [
+        {
+          "name": "Cel-Fi ROAM R41 Mobile Kit & Strike B3-B Antenna Bundle",
+          "quantity": 1
+        },
+        {
+          "name": "Thiess",
+          "quantity": 1
+        }
+      ],
+      "end_customer_industries": {
+        "Construction": 2
+      }
+    },
+    {
+      "reseller_id": "client_340",
+      "reseller_name": "Mobili",
+      "total_revenue": 0,
+      "end_customer_count": 1,
+      "top_products": [],
+      "end_customer_industries": {
+        "Construction": 1
+      }
+    }
+  ],
+  "general_insights": [
+    "The Other industry (Enterprise businesses) represents our most valuable client segment with 5 clients and $5538131.32 in total spend.",
+    "Our Vehicle Mount category is our best-selling product line, generating $1677177.72 in revenue.",
+    "Products in the Other category have the highest conversion rates at price points around $8479.79.",
+    "There's a strong opportunity to cross-sell RAM with 201U as 6 customers have purchased both.",
+    "Strike Group Australia Pty Ltd is our most valuable reseller partner, generating $677861.22 in revenue across 108 end customers."
+  ]
+}

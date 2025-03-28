@@ -1,0 +1,115 @@
+{
+  "email_length": {
+    "bins": {
+      "short": {
+        "count": 258,
+        "success_rate": 5.813953488372093,
+        "total_conversions": 15
+      },
+      "medium": {
+        "count": 573,
+        "success_rate": 40.139616055846425,
+        "total_conversions": 230
+      },
+      "long": {
+        "count": 155,
+        "success_rate": 10.967741935483872,
+        "total_conversions": 17
+      }
+    },
+    "correlation": -0.035349724133688615
+  },
+  "formality": {
+    "formal": {
+      "count": 571,
+      "success_rate": 40.4553415061296,
+      "total_conversions": 231
+    },
+    "informal": {
+      "count": 415,
+      "success_rate": 7.46987951807229,
+      "total_conversions": 31
+    },
+    "correlation": null
+  },
+  "personalization": {
+    "personalized": {
+      "count": 283,
+      "success_rate": 11.307420494699647,
+      "total_conversions": 32
+    },
+    "non_personalized": {
+      "count": 703,
+      "success_rate": 32.71692745376956,
+      "total_conversions": 230
+    },
+    "correlation": null
+  },
+  "cta_effectiveness": {
+    "clear_cta": {
+      "count": 614,
+      "success_rate": 38.273615635179155,
+      "total_conversions": 235
+    },
+    "no_clear_cta": {
+      "count": 372,
+      "success_rate": 7.258064516129033,
+      "total_conversions": 27
+    },
+    "correlation": null
+  },
+  "question_usage": {
+    "with_questions": {
+      "count": 460,
+      "success_rate": 6.956521739130435,
+      "avg_questions": 1.367391304347826,
+      "total_conversions": 32
+    },
+    "no_questions": {
+      "count": 526,
+      "success_rate": 43.72623574144487,
+      "total_conversions": 230
+    },
+    "correlation": -0.29793615562253634
+  },
+  "response_time": {
+    "quick": {
+      "count": 0,
+      "success_rate": 0,
+      "total_conversions": 0
+    },
+    "medium": {
+      "count": 0,
+      "success_rate": 0,
+      "total_conversions": 0
+    },
+    "slow": {
+      "count": 0,
+      "success_rate": 0,
+      "total_conversions": 0
+    },
+    "correlation": null
+  },
+  "visual_content": {
+    "with_visuals": {
+      "count": 342,
+      "success_rate": 7.309941520467836,
+      "total_conversions": 25
+    },
+    "no_visuals": {
+      "count": 644,
+      "success_rate": 36.80124223602485,
+      "total_conversions": 237
+    },
+    "correlation": null
+  },
+  "top_patterns": [
+    "Medium emails (40.1% success rate) perform best.",
+    "Formal communication style has a higher success rate (40.5%).",
+    "Non-personalized emails perform better with a 32.7% success rate.",
+    "Emails with clear CTAs convert better (38.3% vs 7.3%).",
+    "Direct communication without questions performs better in this dataset.",
+    "Plain text emails yield higher conversion rates (36.8%)."
+  ],
+  "winning_combination": "Emails that are medium length, formal style, clear CTA"
+}

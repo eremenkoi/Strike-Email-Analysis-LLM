@@ -1,0 +1,2 @@
+2025-03-25 19:18:21,706 [INFO] Enhanced categorization processing started.
+2025-03-25 19:18:21,707 [ERROR] Error loading file C:\Users\ierem\PycharmProjects\pythonProject\detailed_extraction_results.json: [Errno 2] No such file or directory: 'C:\\Users\\ierem\\PycharmProjects\\pythonProject\\detailed_extraction_results.json'
